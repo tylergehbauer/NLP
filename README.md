@@ -31,4 +31,9 @@ For Ethereum: 10 most common words were 'newsletter','cryptocurrency','million',
 
 
 Here are the word clouds I created for each coin:
-![Bitcoin Wordclound](bitcoin_cloud.png)
+![Bitcoin Wordcloud](bitcoin_cloud.png)
+![Ethereum Wordcloud](ethereum_cloud.png)
+
+## 3 - Named Entity Recognition
+
+Lastly, for this part I built a named entity recognition model for both coins and visualized the tags using SpaCy.
