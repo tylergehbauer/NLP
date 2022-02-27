@@ -30,4 +30,4 @@ For Bitcoin: 10 most common words were 'Bitcoin','Reuters','El','cryptocurrency'
 For Ethereum: 10 most common words were 'newsletter','cryptocurrency','million','Bitcoin','Ethereum','token','ethereum','Feb','Reuters', and '324'.
 
 
-Here are the word clouds I created for each coin: ![Bitcoin Wordclound](Images/sentimental.jpeg)
+Here are the word clouds I created for each coin: ![Bitcoin Wordclound](Screen Shot 2022-02-26 at 8.35.24 PM.png)
