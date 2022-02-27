@@ -1,5 +1,5 @@
 # NLP
-Unit 12 - Tales from the Crypto 
+## Unit 12 - Tales from the Crypto 
 
 For this assignment, I applied natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum. 
 
@@ -30,4 +30,5 @@ For Bitcoin: 10 most common words were 'Bitcoin','Reuters','El','cryptocurrency'
 For Ethereum: 10 most common words were 'newsletter','cryptocurrency','million','Bitcoin','Ethereum','token','ethereum','Feb','Reuters', and '324'.
 
 
-Here are the word clouds I created for each coin: ![Bitcoin Wordclound](Screen Shot 2022-02-26 at 8.35.24 PM.png)
+Here are the word clouds I created for each coin:
+![Bitcoin Wordclound](bitcoin_cloud.png)
