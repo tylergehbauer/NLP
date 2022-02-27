@@ -19,7 +19,7 @@ Q. Which coin had the highest positive score?
 
 A: Ethereum had a slightly higher positive score with a score of 0.234000
 
-Overall, I would say they both have mostly neutral articles. Both Bitcoin and Ethereum had more postive articles compared to negative articles, where Bitcoin was more positive. 
+Overall, I would say they both have mostly neutral articles. Both Bitcoin and Ethereum had more postive articles compared to negative articles, where Bitcoin was overall more positive than Ethereum. 
 
 ## 2 - Natural Language Processing
 
