@@ -19,7 +19,7 @@ Q. Which coin had the highest positive score?
 
 A: Ethereum had a slightly higher positive score with a score of 0.234000
 
-Overall, I would say they both have mostly neutral articles. Both Bitcoin and Ethereum had more postive articles compared to negative articles, where Bitcoin was overall more positive than Ethereum. 
+Overall, I would say they both had mostly neutral articles. Both Bitcoin and Ethereum had more postive articles compared to negative articles, where Bitcoin was overall more positive than Ethereum. 
 
 ## 2 - Natural Language Processing
 
@@ -32,7 +32,7 @@ For Ethereum: 10 most common words were 'newsletter','cryptocurrency','million',
 
 Here are the word clouds I created for each coin:
 ![Bitcoin Wordcloud](bitcoin_cloud.png)
-![Ethereum Wordcloud](ethereum_cloud.png)
+![Ethereum Wordcloud](ether_cloud.png)
 
 ## 3 - Named Entity Recognition
 
